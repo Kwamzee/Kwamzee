@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kwamzee (Qwom-zee-Ay)
+- 👋 Hi, I’m @Jun (June)
 - 👀 I’m interested in programming, illustration & graphic design.
 - 🌱 I’m currently learning Python. 
 - 💞️ I’m looking to collaborate on ...
