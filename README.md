@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kwamzee (Qwom-zee-Ay)
 - 👀 I’m interested in programming, illustration & graphic design.
-- 🌱 I’m currently learning Javascript. 
+- 🌱 I’m currently learning Python. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: junbowman@gmail.com
 
